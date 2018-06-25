@@ -1,0 +1,142 @@
+/*---------- common nav bars -------*/
+.navbar-wrapper-static{
+	margin-top:0;
+	position:static;
+}
+.navbar-inverse .top-navbar-brand {
+	font-size:13px;
+}
+.navbar-inverse .top-navbar-brand:hover{
+	color:#9d9d9d;
+}
+.navbar-inverse .top-navbar-brand a, 
+.alt-navbar-inverse .alt-navbar-right>li>a{
+	color:#FFF;
+	font-family:'Sarala';
+}
+.navbar-default .navbar-nav>li>a{
+	font-family:'Sarala';
+}
+.glyphicon-user,
+.glyphicon-gift,
+.glyphicon-shopping-cart,
+.glyphicon-arrow-right,
+.glyphicon-info-sign{
+	margin-right:4px;
+}
+nav.middle-navbar{
+	background:none;
+	border:none;
+}
+a.logo-navbar-brand,
+a.logo-navbar-brand:hover{
+	font-family: 'Satisfy';
+	color:#101010;
+	font-size:2em;
+	padding-left:0;
+}
+.search-container{
+	margin-bottom:20px;
+}
+.second-navbar a, 
+h2.main-title,
+h3.main-title,
+.panel-title{
+	font-family: 'Sarala';
+}
+.alt-btn-group{
+	margin-bottom:20px;
+}
+.sm-media{
+	margin-top:0;
+}
+.col-md-7 .md-top-para{
+	padding-top:85px;
+}
+.para-danger{
+	margin:0;
+}
+h3.md-title{
+	margin-top:40px;
+	margin-left:15px;
+}
+.table{
+	margin-bottom:0;
+}
+.table>tbody>tr>td.border-top-0{
+	border-top:0;
+}
+/*---------about page---------*/
+.container .jumbotron{
+	padding:0;
+	position:relative;	
+}
+.container .jumbotron img{
+	border-radius:6px;
+	width:100%;
+}
+.carousel-caption-about{
+	top:20%;
+	left:5%;
+	text-align:left;
+}
+/*--------- nav bar for index page---------*/
+.home-navbar-inverse{
+	background:none;
+}
+.home-navbar-wrapper .navbar{
+	border:none;
+}
+.marketing h2, .font-satisfy{
+	font-family: 'Sarala';
+}
+.home-navbar-inverse .navbar-nav>li>a{
+	color:#FFF;
+	font-size:1.25em;
+	font-family: 'Sarala';
+}
+.home-navbar-inverse .navbar-nav>a{
+	background:none;	
+}
+.home-navbar-inverse .navbar-brand{
+	color:#FFF;
+}
+.navbar-header a.logo{
+	color:#FFF;
+	font-family: 'Satisfy';
+	font-size:2em;
+}
+.navbar-header a.logo:hover{
+	color:#FFF;
+}
+/*--------- footer ---------*/
+.footer{
+	background:#e7e7e7;
+}
+h3.title-artist, h2.title-about, .footer h3{
+	font-family: 'Sarala';
+}
+.ftr-bottom-row{
+	background:#3a3a3a;
+	height:auto;
+	width:100%;
+	margin:10px 0 0 0;
+	padding-top:15px;
+	padding-bottom:20px;
+}
+.alt-col-md-3 b{
+	color:#418bca;
+}
+textarea.form-control{
+	max-height:80px;
+}
+.form-control{
+	margin-bottom:5px;
+}
+.alt-col-md-3 .glyphicon-info-sign, 
+.alt-col-md-3 .glyphicon-earphone, 
+.alt-col-md-3 .glyphicon-shopping-cart, 
+.alt-col-md-3 .glyphicon-envelope{
+	font-size:20px;
+	margin-right:5px;
+}
